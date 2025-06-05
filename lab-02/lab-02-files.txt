@@ -1,0 +1,7 @@
+README.md
+assets/css/reset.css
+assets/css/style.css
+assets/images/noose.png
+assets/javascript/game.js
+hangman.png
+index.html
